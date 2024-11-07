@@ -111,6 +111,7 @@ public static void main(String[] args)
         System.out.println("Nome antigo do cachorro 1: " + oldname +"\n");
     }
 ´´´
+
 Saída: Nome antigo do cachorro 1: Unknown
 
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20sad.jpg)
@@ -120,8 +121,8 @@ A vida dela mudou quando ela encontrou uma família que estava disposta a acolhe
 ```sh
         System.out.println("Cachorro 1 foi adotado e agora se chama: " + dog1.getName()+"\n");
 ```
-Saída:
-Cachorro 1 foi adotado e agora se chama: Suzi
+
+Saída: Cachorro 1 foi adotado e agora se chama: Suzi
 
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg)
 
@@ -147,8 +148,8 @@ Idade: 3
 Raça: Caramelo
 
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg)
-
-Informações do cachorro 2:
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=100px height=100px/>
+Informações do cachorro 2
 
 Nome: Kiba
 Idade: 1
