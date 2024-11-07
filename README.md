@@ -103,14 +103,14 @@ Vamos contar a história da Suzi primeiro, para mostrar o funcionamento do progr
 Suzi era uma cachorra de rua, a pobrezinha ficou abandonada desde o início da sua vida.
 Então inicialmente, ela não tinha nome.
 
-´´´sh
+```sh
 public static void main(String[] args) 
     {
         Dog dog1 = new Dog("Unknown");
         String oldname = dog1.getName();
         System.out.println("Nome antigo do cachorro 1: " + oldname +"\n");
     }
-´´´
+```
 
 Saída: Nome antigo do cachorro 1: Unknown
 
@@ -147,7 +147,7 @@ Nome: Suzi
 Idade: 3
 Raça: Caramelo
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=300px height=400px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=472px height=406px/>
 
 Informações do cachorro 2
 
@@ -155,7 +155,7 @@ Nome: Kiba
 Idade: 1
 Raça: Shiba Inu
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg" width=360px height=640px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg" width=300px height=400px/>
 
 No seu dia a dia, ele gosta de comer, brincar e latir... muito...
 
@@ -164,20 +164,21 @@ No seu dia a dia, ele gosta de comer, brincar e latir... muito...
 ```
 Saída: Kiba brincou de bolinha por 15 minutos
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg" width=360px height=640px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20ball.jpg" width=300px height=400px/>
 
 ```sh
         dog2.eat("ração");
 ```
 Saída: Kiba comeu ração
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg" width=360px height=640px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg" width=300px height=400px/>
 
 ```sh
         dog2.bark();
 ```
 Saída: Kiba diz: Au au!
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg" width=360px height=640px/>
+
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg" width=300px height=400px/>
 
 Enfim, no geral foi isso gente. Recomendo a todos terem um cãopanheiro!
 
@@ -185,4 +186,4 @@ Se puderem adotar, adotem! Se quiserem comprar, comprem de criadores responsáve
 
 Obrigado pela atenção pessoAU!
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg" width=360px height=640px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg" width=300px height=400px/>
