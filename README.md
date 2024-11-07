@@ -174,7 +174,9 @@ Saída: Kiba diz: Au au!
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg)
 
 Enfim, no geral foi isso gente. Recomendo a todos terem um cãopanheiro!
+
 Se puderem adotar, adotem! Se quiserem comprar, comprem de criadores responsáveis(pesquisem bem antes)!
+
 Obrigado pela atenção pessoAU!
 
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg)
