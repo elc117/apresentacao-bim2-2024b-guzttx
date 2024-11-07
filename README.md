@@ -145,11 +145,11 @@ Informações do cachorro 1:
 
 Nome: Suzi
 
-Idade: 3
+Idade: 5
 
 Raça: Caramelo
 
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=472px height=406px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=472px height=306px/>
 
 Informações do cachorro 2
 

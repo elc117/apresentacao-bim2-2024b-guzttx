@@ -14,7 +14,7 @@ public class Dog
     public Dog(String name)
     {
         this.name = name;
-        this.age = 3;
+        this.age = 5;
         this.breed = "Caramelo";
     }
     
