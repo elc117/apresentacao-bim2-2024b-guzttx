@@ -114,7 +114,7 @@ public static void main(String[] args)
 
 Saída: Nome antigo do cachorro 1: Unknown
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20sad.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20sad.jpg" width=360px height=640px/>
 
 A vida dela mudou quando ela encontrou uma família que estava disposta a acolher ela, e desde então ela ganhou um nome e um lar.
 
@@ -124,7 +124,7 @@ A vida dela mudou quando ela encontrou uma família que estava disposta a acolhe
 
 Saída: Cachorro 1 foi adotado e agora se chama: Suzi
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg" width=360px height=640px/>
 
 
 Agora vamos ao Kiba!
@@ -147,15 +147,15 @@ Nome: Suzi
 Idade: 3
 Raça: Caramelo
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg)
-<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=100px height=100px/>
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=300px height=400px/>
+
 Informações do cachorro 2
 
 Nome: Kiba
 Idade: 1
 Raça: Shiba Inu
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg" width=360px height=640px/>
 
 No seu dia a dia, ele gosta de comer, brincar e latir... muito...
 
@@ -164,20 +164,20 @@ No seu dia a dia, ele gosta de comer, brincar e latir... muito...
 ```
 Saída: Kiba brincou de bolinha por 15 minutos
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20ball.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg" width=360px height=640px/>
 
 ```sh
         dog2.eat("ração");
 ```
 Saída: Kiba comeu ração
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg" width=360px height=640px/>
 
 ```sh
         dog2.bark();
 ```
 Saída: Kiba diz: Au au!
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg" width=360px height=640px/>
 
 Enfim, no geral foi isso gente. Recomendo a todos terem um cãopanheiro!
 
@@ -185,4 +185,4 @@ Se puderem adotar, adotem! Se quiserem comprar, comprem de criadores responsáve
 
 Obrigado pela atenção pessoAU!
 
-![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg)
+<img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg" width=360px height=640px/>
