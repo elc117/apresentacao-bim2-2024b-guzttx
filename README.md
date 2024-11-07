@@ -141,6 +141,7 @@ Mas antes de irmos para as atividades diárias do japonês, vamos ver as informa
 ```
 Saída:
 Informações do cachorro 1:
+
 Nome: Suzi
 Idade: 3
 Raça: Caramelo
@@ -148,6 +149,7 @@ Raça: Caramelo
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg)
 
 Informações do cachorro 2:
+
 Nome: Kiba
 Idade: 1
 Raça: Shiba Inu
@@ -155,16 +157,19 @@ Raça: Shiba Inu
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg)
 
 No seu dia a dia, ele gosta de comer, brincar e latir... muito...
+
 ```sh
         dog2.play(15, "bolinha");
 ```
 Saída: Kiba brincou de bolinha por 15 minutos
+
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20ball.jpg)
 
 ```sh
         dog2.eat("ração");
 ```
 Saída: Kiba comeu ração
+
 ![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg)
 
 ```sh
