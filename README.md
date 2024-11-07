@@ -113,7 +113,7 @@ public static void main(String[] args)
 ´´´
 Saída: Nome antigo do cachorro 1: Unknown
 
-foto suzi triste
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20sad.jpg)
 
 A vida dela mudou quando ela encontrou uma família que estava disposta a acolher ela, e desde então ela ganhou um nome e um lar.
 
@@ -123,7 +123,7 @@ A vida dela mudou quando ela encontrou uma família que estava disposta a acolhe
 Saída:
 Cachorro 1 foi adotado e agora se chama: Suzi
 
-foto suzi feliz
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20happy.jpg)
 
 
 Agora vamos ao Kiba!
@@ -145,36 +145,36 @@ Nome: Suzi
 Idade: 3
 Raça: Caramelo
 
-foto suzi
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg)
 
 Informações do cachorro 2:
 Nome: Kiba
 Idade: 1
 Raça: Shiba Inu
 
-foto kiba feliz
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg)
 
 No seu dia a dia, ele gosta de comer, brincar e latir... muito...
 ```sh
         dog2.play(15, "bolinha");
 ```
 Saída: Kiba brincou de bolinha por 15 minutos
-foto kiba bolinha
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20ball.jpg)
 
 ```sh
         dog2.eat("ração");
 ```
 Saída: Kiba comeu ração
-foto kiba comendo
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20eats.jpg)
 
 ```sh
         dog2.bark();
 ```
 Saída: Kiba diz: Au au!
-foto kiba latindo
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg)
 
 Enfim, no geral foi isso gente. Recomendo a todos terem um cãopanheiro!
 Se puderem adotar, adotem! Se quiserem comprar, comprem de criadores responsáveis(pesquisem bem antes)!
 Obrigado pela atenção pessoAU!
 
-foto kiba pós banho
+![photo](https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg)
