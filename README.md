@@ -144,7 +144,9 @@ Saída:
 Informações do cachorro 1:
 
 Nome: Suzi
+
 Idade: 3
+
 Raça: Caramelo
 
 <img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/suzi%20presentation.jpg" width=472px height=406px/>
@@ -152,7 +154,9 @@ Raça: Caramelo
 Informações do cachorro 2
 
 Nome: Kiba
+
 Idade: 1
+
 Raça: Shiba Inu
 
 <img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20presentation.jpg" width=300px height=400px/>
@@ -181,9 +185,5 @@ Saída: Kiba diz: Au au!
 <img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20bark.jpg" width=300px height=400px/>
 
 Enfim, no geral foi isso gente. Recomendo a todos terem um cãopanheiro!
-
-Se puderem adotar, adotem! Se quiserem comprar, comprem de criadores responsáveis(pesquisem bem antes)!
-
-Obrigado pela atenção pessoAU!
 
 <img src="https://github.com/elc117/apresentacao-bim2-2024b-guzttx/blob/main/images/kiba%20happy.jpg" width=300px height=400px/>
